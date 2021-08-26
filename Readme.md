@@ -20,7 +20,7 @@
 
 ### About Me 🚀
 🎓 I’m an aspiring Entrepreneur & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, App Dev, Product Design & Development, Project management & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Web Dev, App Dev, Product Design & Development, Game Design & Development, Filmmaking, Project management & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 - Cofounder, Lead Product Designer & Developer ([Rivach](https://www.rivach.com/)). Helping Entrepreneurs and Businesses to launch high value products. Designed & Developed multiple web and mobile experiences. Managing multiple design and development teams to build applications for clients.
