@@ -25,7 +25,7 @@
 ### My Experiences 🙌
 - Co-founder, Lead Product Designer & Developer ([Rivach](https://www.rivach.com/)). Helping Entrepreneurs and Businesses to launch high value products. Designed & Developed multiple web and mobile experiences. Managing multiple design and development teams to build applications for clients.
 - Product Designer ([Centella](https://centella.co.in/)). Designing a highly scalable technology platform to provide end-to-end research solutions to the scientific community.
-- Co-founder, Ideating for Films, Environment Artist (20msStudios). Creating & managing Business processes & systems and Writing scripts for VFX Films & Converting ideas to environments through Unreal Engine.
+- Co-founder, building games, Ideating for Films, Environment Artist (20msStudios). Creating & managing Business processes & systems and Writing scripts for VFX Films & Converting ideas to environments through Unreal Engine.
 - Market Research Intern ([Centella](https://centella.co.in/)). Researched on starting a Market Research business vertical. Performing & generating market research reports on multiple Domains.
 - Frontend Developer Intern ([Exibits](https://exibits.io)). Developed an Mobile and Web Application for a Computer Vision based Application using React and React Native with AWS Amplify.
 - Vice President ([Advanced Academic Center, GRIET](https://www.aacgriet.com)) - Advanced Academic Center (AAC) is an inter-disciplinary research center of GRIET, Hyderabad. AAC is dedicated to excellence in teaching, learning and research, and is continuing to flourish advancements in this modern world.  
