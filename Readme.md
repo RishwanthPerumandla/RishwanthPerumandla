@@ -18,6 +18,14 @@
 
 <br />
 
+Joined Github {{ ACCOUNT_AGE }} years ago.
+
+Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+
+Most used languages across my projects:
+
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 ### About Me 🚀
 🎓 I’m an aspiring Entrepreneur & a Graduate in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Product Design & Development, Web & Mobile App Dev,  Game Design & Development, Filmmaking, Project management & I enjoy learning new things. </br>
