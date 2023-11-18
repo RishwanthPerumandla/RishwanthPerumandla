@@ -19,21 +19,27 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an aspiring Entrepreneur & a Graduate in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Product Design & Development, Web & Mobile App Dev,  Game Design & Development, Filmmaking, Project management & I enjoy learning new things. </br>
+🎓 I’m an aspiring Entrepreneur, a Graduate in Computer Science & Engineering, and currently pursuing my MS in Computer Science at Purdue University Fort Wayne.  
+👨‍💻 Passionate about Product Design & Development, Web & Mobile App Dev, Game Design & Development, Filmmaking, Project Management, and Solutions Architecture.  
+💼 Expertise in designing scalable systems and architecting solutions that drive business growth and technical innovation.  
 
 ### My Experiences 🙌
-- Co-founder, Lead Product Designer & Developer ([Rivach](https://www.rivach.com/)). Helping Entrepreneurs and Businesses to launch high value products. Designed & Developed multiple web and mobile experiences. Managing multiple design and development teams to build applications for clients.
-- Product Designer ([Centella](https://centella.co.in/)). Designing a highly scalable technology platform to provide end-to-end research solutions to the scientific community.
-- Co-founder, building games, Ideating for Films, Environment Artist (20msStudios). Creating & managing Business processes & systems and Writing scripts for VFX Films & Converting ideas to environments through Unreal Engine.
-- Market Research Intern ([Centella](https://centella.co.in/)). Researched on starting a Market Research business vertical. Performing & generating market research reports on multiple Domains.
-- Frontend Developer Intern ([Exibits](https://exibits.io)). Developed an Mobile and Web Application for a Computer Vision based Application using React and React Native with AWS Amplify.
-- Vice President ([Advanced Academic Center, GRIET](https://www.aacgriet.com)) - Advanced Academic Center (AAC) is an inter-disciplinary research center of GRIET, Hyderabad. AAC is dedicated to excellence in teaching, learning and research, and is continuing to flourish advancements in this modern world.  
-- Student Mentor & Instructor ([Advanced Academic Center, GRIET](https://www.aacgriet.com)) - Mentored 20+ students on web development for building websites & web applications and collaborating with teams to work on projects.
--  [Kaneko](https://youtu.be/RYD3EqWPZtQ) - A cinematic short film made with the harnessing power of Unreal Engine and real-world scans from Quixel Megascans. Set in the beautiful, fictional-worldly landscapes of Japan, KANEKO is a story of vengeance. Written script and designed 3d Environmental Landscapes in Unreal Engine.
+- **Co-founder, Lead Product Designer & Developer, Solutions Architect** ([Rivach](https://www.rivach.com/)): As a co-founder at Rivach, I play a pivotal role in shaping the technological direction of our projects. My responsibilities include designing scalable systems and architecting solutions that not only cater to immediate business needs but also anticipate future growth and technological evolution. My expertise in solution architecture involves working closely with clients to understand their unique challenges, proposing innovative solutions, and leading teams to turn these visions into reality. This role has allowed me to apply my technical knowledge in real-world scenarios, ensuring that our products are not only functionally rich but also scalable, secure, and efficient.
+- **Product Designer** ([Centella](https://centella.co.in/)): Designing a scalable technology platform for research solutions.
+- **Co-founder, 20msStudios**: Building games, ideating films, environment artistry, and scriptwriting for VFX films.
+- **Market Research Intern** ([Centella](https://centella.co.in/)): Researching on starting a Market Research business vertical. Generating market research reports across multiple domains.
+- **Frontend Developer Intern** ([Exibits](https://exibits.io)): Developing a Mobile and Web Application for a Computer Vision based application using React and React Native with AWS Amplify.
+- **Vice President** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Leading an inter-disciplinary research center dedicated to excellence in teaching, learning, and research.
+- **Student Mentor & Instructor** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Mentoring students on web development and collaborating on various projects.
+- **[Kaneko](https://youtu.be/RYD3EqWPZtQ)**: Scriptwriter and 3D Environmental Landscape Designer for a short film using Unreal Engine.
 
+### Education 📚
+- **M.S. in Computer Science**, Purdue University Fort Wayne (Current)
+- **B.Tech in Computer Science & Engineering**, JNTU Hyderabad
 
+![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true&theme=merko)
+<br />
 
-![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishwanthPerumandla&theme=merko)](https://git.io/streak-stats)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
