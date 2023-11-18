@@ -24,14 +24,14 @@
 💼 Expertise in designing scalable systems and architecting solutions that drive business growth and technical innovation.  
 
 ### My Experiences 🙌
-- **Co-founder, Lead Product Designer & Developer, Solutions Architect** ([Rivach](https://www.rivach.com/)): As a co-founder at Rivach, I play a pivotal role in shaping the technological direction of our projects. My responsibilities include designing scalable systems and architecting solutions that not only cater to immediate business needs but also anticipate future growth and technological evolution. My expertise in solution architecture involves working closely with clients to understand their unique challenges, proposing innovative solutions, and leading teams to turn these visions into reality. This role has allowed me to apply my technical knowledge in real-world scenarios, ensuring that our products are not only functionally rich but also scalable, secure, and efficient.
-- **Product Designer** ([Centella](https://centella.co.in/)): Designing a scalable technology platform for research solutions.
-- **Co-founder, 20msStudios**: Building games, ideating films, environment artistry, and scriptwriting for VFX films.
-- **Market Research Intern** ([Centella](https://centella.co.in/)): Researching on starting a Market Research business vertical. Generating market research reports across multiple domains.
-- **Frontend Developer Intern** ([Exibits](https://exibits.io)): Developing a Mobile and Web Application for a Computer Vision based application using React and React Native with AWS Amplify.
-- **Vice President** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Leading an inter-disciplinary research center dedicated to excellence in teaching, learning, and research.
-- **Student Mentor & Instructor** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Mentoring students on web development and collaborating on various projects.
-- **[Kaneko](https://youtu.be/RYD3EqWPZtQ)**: Scriptwriter and 3D Environmental Landscape Designer for a short film using Unreal Engine.
+- **Co-founder, Lead Product Designer & Developer, Solutions Architect** ([Rivach](https://www.rivach.com/)): As a co-founder and lead at Rivach, I oversee the development of high-value products for entrepreneurs and businesses globally. My role as a Solutions Architect involves designing scalable systems and architecting solutions tailored to unique business challenges. This includes direct client engagement, innovative problem-solving, and leading diverse teams to deliver robust and efficient applications.
+- **Product Designer** ([Centella](https://centella.co.in/)): Designing a highly scalable technology platform to provide end-to-end research solutions to the scientific community.
+- **Co-founder** ([20msStudios](https://www.20msstudios.com/)): Creating and managing business processes and systems. Writing scripts for VFX films and converting ideas into environments through Unreal Engine.
+- **Market Research Intern** ([Centella](https://centella.co.in/)): Conducted research on establishing a Market Research business vertical and generated market research reports for multiple domains.
+- **Frontend Developer Intern** ([Exibits](https://exibits.io)): Developed a Mobile and Web Application for a Computer Vision based application using React and React Native with AWS Amplify.
+- **Vice President** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Advanced Academic Center (AAC) is an inter-disciplinary research center of GRIET, Hyderabad. AAC is dedicated to excellence in teaching, learning, and research, and is continuing to flourish advancements in this modern world.
+- **Student Mentor & Instructor** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Mentored 50+ students on web development for building websites & web applications and collaborating with teams to work on projects.
+- **[Kaneko](https://youtu.be/RYD3EqWPZtQ)** - A cinematic short film made with the harnessing power of Unreal Engine and real-world scans from Quixel Megascans. Set in the beautiful, fictional-worldly landscapes of Japan, KANEKO is a story of vengeance. Written script and designed 3d Environmental Landscapes in Unreal Engine.
 
 ### Education 📚
 - **M.S. in Computer Science**, Purdue University Fort Wayne (Current)
