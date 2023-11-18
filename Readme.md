@@ -37,7 +37,7 @@
 - **M.S. in Computer Science**, Purdue University Fort Wayne (Current)
 - **B.Tech in Computer Science & Engineering**, JNTU Hyderabad
 
-![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true&theme=merko)
+![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true)
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishwanthPerumandla&theme=merko)](https://git.io/streak-stats)
