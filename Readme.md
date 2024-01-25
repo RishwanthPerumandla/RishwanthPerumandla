@@ -39,7 +39,5 @@
 
 ![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true)
 <br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishwanthPerumandla&theme=merko)](https://git.io/streak-stats)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
