@@ -37,7 +37,7 @@
 - **M.S. in Computer Science**, Purdue University Fort Wayne (Current)
 - **B.Tech in Computer Science & Engineering**, JNTU Hyderabad
 
-![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&hide_border=true)
+![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&&theme=radical&show_icons=true&hide_border=true)
 <br />
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
