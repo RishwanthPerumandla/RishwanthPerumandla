@@ -54,6 +54,5 @@ I'm a Cloud & Machine Learning Engineer with a background in product development
 
 ---
 
-![Rishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&theme=radical&show_icons=true&hide_border=true)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
