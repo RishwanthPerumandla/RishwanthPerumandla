@@ -1,7 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rishwanth!](https://www.rishwanth.com/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rishwanth!](https://www.rishwanth.com/)
 
 <a href="https://www.linkedin.com/in/RishwanthPerumandla/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/rishwanth1729">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,28 +12,48 @@
 <a href="https://www.youtube.com/channel/UCnGr3eUbmg5gmbJ_PzX3fGQ">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br />
+<br/>
 
-### About Me 🚀
-🎓 I’m an aspiring Entrepreneur, a Graduate in Computer Science & Engineering, and currently pursuing my MS in Computer Science at Purdue University Fort Wayne.  
-👨‍💻 Passionate about Product Design & Development, Web & Mobile App Dev, Game Design & Development, Filmmaking, Project Management, and Solutions Architecture.  
-💼 Expertise in designing scalable systems and architecting solutions that drive business growth and technical innovation.  
+---
 
-### My Experiences 🙌
-- **Co-founder, Lead Product Designer & Developer, Solutions Architect** ([Rivach](https://www.rivach.com/)): As a co-founder and lead at Rivach, I oversee the development of high-value products for entrepreneurs and businesses globally. My role as a Solutions Architect involves designing scalable systems and architecting solutions tailored to unique business challenges. This includes direct client engagement, innovative problem-solving, and leading diverse teams to deliver robust and efficient applications.
-- **Product Designer** ([Centella](https://centella.co.in/)): Designing a highly scalable technology platform to provide end-to-end research solutions to the scientific community.
-- **Co-founder** ([20msStudios](https://www.20msstudios.com/)): Creating and managing business processes and systems. Writing scripts for VFX films and converting ideas into environments through Unreal Engine.
-- **Market Research Intern** ([Centella](https://centella.co.in/)): Conducted research on establishing a Market Research business vertical and generated market research reports for multiple domains.
-- **Frontend Developer Intern** ([Exibits](https://exibits.io)): Developed a Mobile and Web Application for a Computer Vision based application using React and React Native with AWS Amplify.
-- **Vice President** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Advanced Academic Center (AAC) is an inter-disciplinary research center of GRIET, Hyderabad. AAC is dedicated to excellence in teaching, learning, and research, and is continuing to flourish advancements in this modern world.
-- **Student Mentor & Instructor** ([Advanced Academic Center, GRIET](https://www.aacgriet.com)): Mentored 50+ students on web development for building websites & web applications and collaborating with teams to work on projects.
-- **[Kaneko](https://youtu.be/RYD3EqWPZtQ)** - A cinematic short film made with the harnessing power of Unreal Engine and real-world scans from Quixel Megascans. Set in the beautiful, fictional-worldly landscapes of Japan, KANEKO is a story of vengeance. Written script and designed 3d Environmental Landscapes in Unreal Engine.
+### 🚀 About Me
+I'm a Cloud & Machine Learning Engineer with a background in product development, MLOps, and GenAI integration. I’m currently pursuing my MS in Computer Science at Purdue University Fort Wayne and have 3+ years of experience working on real-world, scalable systems—from AI research platforms to multi-role SaaS products.
 
-### Education 📚
-- **M.S. in Computer Science**, Purdue University Fort Wayne (Current)
-- **B.Tech in Computer Science & Engineering**, JNTU Hyderabad
+🔧 I work with technologies like Python, Node.js, React, Docker, Kubernetes, Terraform, AWS, and tools like MLflow, DVC, and OpenAI/Hugging Face APIs.
 
-![Rishwanth's github stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&&theme=radical&show_icons=true&hide_border=true)
-<br />
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
+🧠 My interests lie at the intersection of AI, cloud infrastructure, and product engineering — building systems that are robust, modular, and meaningful.
+
+---
+
+### 💼 Experience Highlights
+
+- **Cofounder & Cloud Engineer** at [Rivach](https://www.rivach.com): Designed and deployed multiple client-facing platforms including *Brekrr* and *LandManager*, using AWS, Docker, Terraform, and a full stack JS ecosystem. Managed product architecture and delivery while leading engineering workflows.
+
+- **ML Platform Engineer** at [Centella Scientific](https://centella.co.in): Worked on ADMET prediction and molecular generation modules. Built MLOps pipelines with MLflow, Docker, and Azure AKS for reproducibility and rapid iteration in ML research.
+
+- **Founder, Creative Director** at [20ms Studios](https://www.20msstudios.com): Directed creative and technical production of short films using Unreal Engine and Quixel Megascans. Wrote scripts, designed 3D landscapes, and built cinematic storytelling environments.
+
+- **Frontend Intern** at [Exibits](https://exibits.io): Developed web and mobile applications for a computer vision product using React and AWS Amplify.
+
+---
+
+### 🧪 Selected Projects
+
+- **MediCareNet** – Predictive Readmission ML pipeline with MLOps tooling (MLflow, DVC, XGBoost), deployed on AWS.  
+- **LandManager** – A mobile-first property management platform for B2B clients with multi-role support.  
+- **SciCom** – Academic research workflow SaaS with contract, milestone, and role-based task management.  
+- **Hybrid Recommender System** – Built a hybrid recommendation engine (TF-IDF + collaborative filtering) served via Flask API.  
+- **VirtualTryOn** – AI-based try-on app using CV and deep learning to map user-uploaded images with virtual clothing.
+
+---
+
+### 🎓 Education
+
+- **M.S. in Computer Science** – Purdue University Fort Wayne (2023–2025)  
+- **B.Tech in CSE** – JNTU Hyderabad
+
+---
+
+![Rishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&theme=radical&show_icons=true&hide_border=true)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
