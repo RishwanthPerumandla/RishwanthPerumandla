@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rishwanth!](https://www.rishwanth.com/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rishwanth!](https://www.rishwanth.com/) 
 
 <a href="https://www.linkedin.com/in/RishwanthPerumandla/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,47 +12,90 @@
 <a href="https://www.youtube.com/@ripe6096">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br/>
+
+
+<br />
+<br />
 
 ---
 
-### 🚀 About Me
-I'm a Cloud & Machine Learning Engineer with a background in product development, MLOps, and GenAI integration. I’m currently pursuing my MS in Computer Science at Purdue University Fort Wayne and have 3+ years of experience working on real-world, scalable systems—from AI research platforms to multi-role SaaS products.
+### 👨‍💻 About Me
 
-🔧 I work with technologies like Python, Node.js, React, Docker, Kubernetes, Terraform, AWS, and tools like MLflow, DVC, and OpenAI/Hugging Face APIs.
+I’m a **Cloud Software Engineer** with 4+ years of experience designing scalable systems and deploying cloud-native infrastructure across **AWS**, **Azure**, and **GCP**. I specialize in backend development, DevOps, and MLOps — with a passion for translating real-world product needs into modular, high-performance software solutions.
 
-🧠 My interests lie at the intersection of AI, cloud infrastructure, and product engineering — building systems that are robust, modular, and meaningful.
-
----
-
-### 💼 Experience Highlights
-
-- **Cofounder & Cloud Engineer** at [Rivach](https://www.rivach.com): Designed and deployed multiple client-facing platforms including *Brekrr* and *LandManager*, using AWS, Docker, Terraform, and a full stack JS ecosystem. Managed product architecture and delivery while leading engineering workflows.
-
-- **ML Platform Engineer** at [Centella Scientific](https://centella.co.in): Worked on ADMET prediction and molecular generation modules. Built MLOps pipelines with MLflow, Docker, and Azure AKS for reproducibility and rapid iteration in ML research.
-
-- **Founder, Creative Director** at [20ms Studios](https://www.20msstudios.com): Directed creative and technical production of short films using Unreal Engine and Quixel Megascans. Wrote scripts, designed 3D landscapes, and built cinematic storytelling environments.
-
-- **Frontend Intern** at [Exibits](https://exibits.io): Developed web and mobile applications for a computer vision product using React and AWS Amplify.
+My work blends infrastructure as code, API design, and ML/GenAI platform deployment. I believe in building systems that are not only scalable and efficient, but also secure, observable, and easy to maintain.
 
 ---
 
-### 🧪 Selected Projects
+### 🛠️ Core Competencies
 
-- **MediCareNet** – Predictive Readmission ML pipeline with MLOps tooling (MLflow, DVC, XGBoost), deployed on AWS.  
-- **LandManager** – A mobile-first property management platform for B2B clients with multi-role support.  
-- **SciCom** – Academic research workflow SaaS with contract, milestone, and role-based task management.  
-- **Hybrid Recommender System** – Built a hybrid recommendation engine (TF-IDF + collaborative filtering) served via Flask API.  
-- **VirtualTryOn** – AI-based try-on app using CV and deep learning to map user-uploaded images with virtual clothing.
+- **Cloud Infrastructure**: AWS (EC2, S3, Lambda, RDS), Azure (AKS), GCP, Terraform, Docker, Kubernetes, CloudFormation  
+- **Programming & Frameworks**: Python, JavaScript, TypeScript, Go, Node.js, FastAPI, Express.js  
+- **AI/ML Platform Engineering**: MLflow, DVC, Hugging Face Transformers, LangChain, RAG Pipelines  
+- **Data & Messaging**: PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ  
+- **DevOps & Architecture**: CI/CD, GitHub Actions, Microservices, RBAC, Serverless, Event-Driven Systems  
+- **Frontend Tools**: React, React Native, MUI (when needed to deliver complete product solutions)
+
+---
+
+### 💼 Professional Experience
+
+#### 🏢 Rivach LLP – *Technical Cofounder & Cloud Software Engineer*  
+*Jul 2021 – Jul 2023 | Hyderabad, India (Remote)*  
+- Led architecture and delivery of full-stack, cloud-native SaaS platforms for startups and enterprise clients.  
+- Deployed infrastructure on AWS using Terraform, CloudFormation, Docker, and Kubernetes with CI/CD pipelines.  
+- Delivered multi-role platforms with modular services, integrated RBAC, and real-time task workflows.
+
+#### 🧪 Centella Scientific – *Cloud Software Engineer (MLOps & Infrastructure)*  
+*Jun 2022 – Present | Hyderabad, India*  
+- Developed and maintained reproducible MLOps pipelines on Azure for molecular design and lead optimization.  
+- Integrated REINVENT and LangChain frameworks into containerized research platforms with MLflow, DVC, and AKS.  
+- Reduced iteration time by 30% by standardizing deployment across ML lifecycle stages.
+
+---
+
+### 🚀 Selected Projects
+
+#### ✅ **MediCareNet**  
+A production-grade MLOps pipeline for predicting hospital readmission risk.  
+- Built using XGBoost, MLflow, and DVC; deployed via Docker and Terraform on AWS EC2  
+- Fully automated retraining and deployment with GitHub Actions
+
+#### ✅ **LexiBot**  
+An LLM-powered legal intelligence platform for clause-level validation and document understanding.  
+- Integrated LangChain + Flan-T5 for RAG-based reasoning, deployed with FastAPI and FAISS  
+- Supports semantic search, summarization, and retrieval over structured contracts
+
+#### ✅ **LandManager**  
+A cloud-native property management platform with role-based access and asset tracking.  
+- Built backend with Node.js and MongoDB, deployed on AWS using Terraform and Docker  
+- Supports client, manager, and admin roles with secure workflows and real-time updates
+
+#### ✅ **Hybrid Recommender Engine**  
+A scalable hybrid recommendation system combining collaborative filtering and transformer embeddings.  
+- Served via FastAPI backend with caching and user-personalized content delivery  
+- Tracked and logged with MLflow; React frontend for real-time user feedback
 
 ---
 
 ### 🎓 Education
 
-- **M.S. in Computer Science** – Purdue University Fort Wayne (2023–2025)  
-- **B.Tech in CSE** – JNTU Hyderabad
+- **Master of Science in Computer Science**  
+  Purdue University Fort Wayne — *Graduated May 2025*  
+- **B.Tech in Computer Science & Engineering**  
+  JNTU Hyderabad
 
 ---
 
+### 📫 Let’s Connect
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
+- 🌐 [Portfolio Website](https://www.rishwanth.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishwanthperumandla)  
+- 💻 [GitHub](https://github.com/RishwanthPerumandla)  
+- 📧 rishwanth.perumandla@hotmail.com  
+
+---
+
+![Rishwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishwanthPerumandla&show_icons=true&theme=radical&hide_border=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishwanthPerumandla.RishwanthPerumandla)
