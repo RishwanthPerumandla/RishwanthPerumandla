@@ -1,87 +1,25 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rishwanth!](https://www.rishwanth.com/) 
 
-<a href="https://www.linkedin.com/in/RishwanthPerumandla/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/rishwanth1729">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rishwanth.perumandla@hotmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/@ripe6096">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+I am a Cloud and AI Software Engineer who works at the intersection of scalable system design, distributed computing, and applied machine intelligence. I enjoy building platforms and backend architectures that can support demanding workloads, intelligent automation, and real-world AI systems with consistency and reliability.
 
-<br />
+My approach to engineering is simple. I focus on creating systems that remain fast, resilient, and easy to maintain even as they grow. I work through every layer of platform development, from backend foundations and service orchestration to cloud deployment, monitoring, and the integration of intelligent workflows. I believe in designing architectures that reduce complexity through clarity, strong modularity, and alignment with product goals.
 
----
+Much of my work involves turning complex processes into structured systems that operate smoothly across cloud environments. I am particularly interested in distributed pipelines, orchestration layers, and services that blend traditional algorithms with modern AI techniques. Whether it is an agentic workflow, a reinforcement learning pipeline, or a multi-service application, I aim to build systems that are adaptable, well-structured, and prepared for real-world demands.
 
-### 👨‍💻 About Me
+My technical philosophy is guided by three ideas:
 
-I’m a **Cloud Software Engineer** with 4+ years of experience designing scalable systems and deploying cloud-native infrastructure across **AWS**, **Azure**, and **GCP**. I specialize in backend development, DevOps, and MLOps — with a passion for translating real-world product needs into modular, high-performance software solutions.
+**Architectural clarity**  
+I believe good systems should be clearly designed and understandable at every level, from backend boundaries to cloud deployment patterns. I aim for solutions that reduce unnecessary complexity and support long-term growth.
 
-My work blends infrastructure as code, API design, and ML/GenAI platform deployment. I believe in building systems that are not only scalable and efficient, but also secure, observable, and easy to maintain.
+**Operational excellence**  
+A platform should be resilient and observable, with the tools and automation needed to behave predictably under evolving workloads. I place strong emphasis on solid deployment practices, consistent delivery pipelines, and effective monitoring.
 
----
+**Intelligent integration**  
+I enjoy exploring how machine learning and modern AI architectures can enhance backend systems. When used thoughtfully, they enable smarter decisions, faster iteration, and better user experiences.
 
-### 🛠️ Core Competencies
+Across all the systems I work on, my goal is to build platforms that are technically strong and aligned with how products and organizations grow. I enjoy the process of connecting infrastructure, software design, and intelligent automation into systems that unlock new possibilities.
 
-- **Cloud Infrastructure**: AWS (EC2, S3, Lambda, RDS), Azure (AKS), GCP, Terraform, Docker, Kubernetes, CloudFormation  
-- **Programming & Frameworks**: Python, JavaScript, TypeScript, Go, Node.js, FastAPI, Express.js  
-- **AI/ML Platform Engineering**: MLflow, DVC, Hugging Face Transformers, LangChain, RAG Pipelines  
-- **Data & Messaging**: PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ  
-- **DevOps & Architecture**: CI/CD, GitHub Actions, Microservices, RBAC, Serverless, Event-Driven Systems  
-- **Frontend Tools**: React, React Native, MUI (when needed to deliver complete product solutions)
-
----
-
-### 💼 Professional Experience
-
-#### 🏢 Rivach LLP – *Technical Cofounder & Cloud Software Engineer*  
-*Jul 2021 – Jul 2023 | Hyderabad, India (Remote)*  
-- Led architecture and delivery of full-stack, cloud-native SaaS platforms for startups and enterprise clients.  
-- Deployed infrastructure on AWS using Terraform, CloudFormation, Docker, and Kubernetes with CI/CD pipelines.  
-- Delivered multi-role platforms with modular services, integrated RBAC, and real-time task workflows.
-
-#### 🧪 Centella Scientific – *Cloud Software Engineer (MLOps & Infrastructure)*  
-*Jun 2022 – Present | Hyderabad, India*  
-- Developed and maintained reproducible MLOps pipelines on Azure for molecular design and lead optimization.  
-- Integrated REINVENT and LangChain frameworks into containerized research platforms with MLflow, DVC, and AKS.  
-- Reduced iteration time by 30% by standardizing deployment across ML lifecycle stages.
-
----
-
-### 🚀 Selected Projects
-
-#### ✅ **MediCareNet**  
-A production-grade MLOps pipeline for predicting hospital readmission risk.  
-- Built using XGBoost, MLflow, and DVC; deployed via Docker and Terraform on AWS EC2  
-- Fully automated retraining and deployment with GitHub Actions
-
-#### ✅ **LexiBot**  
-An LLM-powered legal intelligence platform for clause-level validation and document understanding.  
-- Integrated LangChain + Flan-T5 for RAG-based reasoning, deployed with FastAPI and FAISS  
-- Supports semantic search, summarization, and retrieval over structured contracts
-
-#### ✅ **LandManager**  
-A cloud-native property management platform with role-based access and asset tracking.  
-- Built backend with Node.js and MongoDB, deployed on AWS using Terraform and Docker  
-- Supports client, manager, and admin roles with secure workflows and real-time updates
-
-#### ✅ **Hybrid Recommender Engine**  
-A scalable hybrid recommendation system combining collaborative filtering and transformer embeddings.  
-- Served via FastAPI backend with caching and user-personalized content delivery  
-- Tracked and logged with MLflow; React frontend for real-time user feedback
-
----
-
-### 🎓 Education
-
-- **Master of Science in Computer Science**  
-  Purdue University Fort Wayne — *Graduated May 2025*  
-- **B.Tech in Computer Science & Engineering**  
-  JNTU Hyderabad
+If you are interested in cloud architecture, distributed systems, or applied AI engineering, feel free to reach out. I am always happy to exchange ideas and learn from others in this space.
 
 ---
 
@@ -89,8 +27,7 @@ A scalable hybrid recommendation system combining collaborative filtering and tr
 
 - 🌐 [Portfolio Website](https://www.rishwanth.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishwanthperumandla)  
-- 💻 [GitHub](https://github.com/RishwanthPerumandla)  
-- 📧 rishwanth.perumandla@hotmail.com  
+- 📧 [Email](mailto:rishwanth.perumandla@hotmail.com)
 
 ---
 
