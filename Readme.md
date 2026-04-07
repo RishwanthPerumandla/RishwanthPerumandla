@@ -26,60 +26,17 @@ I have worked across life sciences, drug discovery, healthcare, SaaS platforms, 
 
 ---
 
-## What I Focus On
+## Domain and Enterprise Experience
 
-### Backend Engineering
-I build APIs, service architectures, data intensive platforms, distributed workflows, and cloud native systems that are designed for reliability, scale, and maintainability.
+- **Life Sciences and Drug Discovery** – Built systems for scientific workflows, molecular data platforms, research-driven products, and large-scale data processing  
 
-### AI Engineering
-I work on retrieval systems, intelligent workflows, recommendation style systems, and practical AI integrations that support real product and operational use cases.
+- **Healthcare** – Developed secure and scalable backend systems for workflow-heavy environments with strong focus on reliability, data quality, and compliance  
 
-### Forward Deployed Engineering
-I enjoy working close to customers, stakeholders, and business teams to understand real pain points and turn them into well designed technical solutions that create measurable impact.
+- **SaaS and Marketplace Platforms** – Worked on multi-tenant platforms, workflow automation, product logic, and backend services supporting growth and operational efficiency  
 
----
+- **Enterprise Business Systems (Oracle)** – Strong understanding of Oracle Fusion ERP, OIC, and Finance workflows, including how business processes, integrations, and system boundaries operate across large organizations  
 
-## Domain Experience
-
-### Life Sciences and Drug Discovery
-Worked on systems that support scientific workflows, molecular data platforms, research driven products, and high scale data processing.
-
-### Healthcare
-Built secure and scalable backend systems for workflow heavy environments where reliability, data quality, and compliance matter.
-
-### SaaS and Marketplace Platforms
-Worked on multi tenant platforms, internal systems, workflow automation, product logic, and backend services that support growth and operational efficiency.
-
-### Enterprise Business Systems
-Strong understanding of Oracle enterprise ecosystems including Fusion ERP, OIC, Finance related business workflows, and enterprise process integration patterns. I am comfortable understanding how business processes, finance operations, integrations, and system boundaries connect across large organizations.
-
----
-
-## Enterprise and Business Systems Perspective
-
-Alongside backend and AI engineering, I have a strong interest in enterprise systems and business workflows.
-
-I understand Oracle Fusion ERP, OIC, and Finance process areas from both a systems and solution perspective. That includes how enterprise workflows move across functions, how integrations support business operations, and how technical solutions need to align with real process needs.
-
-I am particularly interested in the intersection of:
-- enterprise workflows
-- backend platforms
-- intelligent automation
-- AI systems that improve business operations
-
----
-
-## What I Enjoy Building
-
-- backend platforms that can scale with product growth
-- customer facing technical solutions
-- AI powered workflows with practical business value
-- internal tools that reduce operational overhead
-- distributed systems and event driven services
-- products that connect infrastructure, data, and decision making
-- systems that make teams faster and more effective
-
----
+- **Enterprise Systems Perspective** – Experience aligning backend and AI systems with enterprise workflows, focusing on integration, intelligent automation, and building systems that support real business operations  
 
 ## Tech I Work With
 
@@ -106,36 +63,13 @@ Prometheus, Grafana, ELK, Datadog, tracing, logging, production debugging
 
 ---
 
-## What I Bring
-
-I bring a combination of backend depth, AI systems thinking, and customer oriented execution.
-
-I am comfortable moving from problem discovery and technical discussions into architecture, implementation, deployment, and iteration. I enjoy working on systems that are technically strong, operationally reliable, and aligned with what a business actually needs.
-
-That is why Forward Deployed Engineering stands out to me. I enjoy being close to customer problems, product direction, and real operational outcomes.
-
----
-
-## Current Direction
-
-I am especially interested in work around:
-
-- Forward Deployed Engineering
-- Backend Platform Engineering
-- Applied AI Systems
-- Enterprise workflow intelligence
-- Customer facing technical problem solving
-- Products that connect engineering depth with business value
-
----
-
 ## Let’s Connect
 
 I am always open to conversations around backend systems, AI engineering, enterprise workflows, distributed platforms, and customer facing technical problem solving.
 
-<p align="left">
-  <a href="https://www.rishwanth.com">Portfolio</a><br>
-  <a href="https://www.linkedin.com/in/rishwanthperumandla">LinkedIn</a><br>
+<p align="center">
+  <a href="https://www.rishwanth.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rishwanthperumandla">LinkedIn</a> •
   <a href="mailto:rishwanthperumandla28@gmail.com">Email</a>
 </p>
 
