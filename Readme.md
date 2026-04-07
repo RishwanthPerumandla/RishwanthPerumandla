@@ -17,6 +17,7 @@ My work is centered around **backend engineering**, **applied AI**, **cloud syst
 What drives me most is building software that creates **real-world value**. That could mean improving how a team operates, making a platform more resilient, helping customers move faster, or designing systems that turn difficult processes into scalable products.
 
 I have worked across **life sciences**, **drug discovery**, **healthcare**, **SaaS platforms**, **marketplace systems**, and **enterprise workflows**. I am especially interested in problems that require both **deep engineering** and **strong business understanding**.
+
 ---
 
 ## GitHub Stats
